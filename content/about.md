@@ -5,13 +5,11 @@ The primary focus of this site is to:
 
 * To be used in teaching the [dbwebb course design](http://dbwebb.se/design).
 
-The source for this site is available on GitHub in [canax/anax-flat](git@github.com:canax/anax-flat.git).
-
 This site is produced by [Alexey Vorobyev](http://www.student.bth.se/~alvo16/dbwebb-kurser/htmlphp/me/kmom06/me6/me.php) (alevor657@gmail.com).
 
-Source code is available at [GitHub](git.com)
+Source code is available at [GitHub](https://github.com/alevor657/anax-flat)
 
-[![Git](https://zapier.cachefly.net/storage/services/5a67ba06cd2c1c87baadac29145f18a2.128x128.png)](GIT)
+[![Git](https://zapier.cachefly.net/storage/services/5a67ba06cd2c1c87baadac29145f18a2.128x128.png)](https://github.com/alevor657/anax-flat)
 
 Kursen Teknisk webbdesign och användbarhet, a.k.a. design, lär webbprogrammeraren att tekniskt förbereda sin webbplats för design och användbarhet.
 
