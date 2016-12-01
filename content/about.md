@@ -14,3 +14,5 @@ Source code is available at [GitHub](https://github.com/alevor657/anax-flat)
 Kursen Teknisk webbdesign och användbarhet, a.k.a. design, lär webbprogrammeraren att tekniskt förbereda sin webbplats för design och användbarhet.
 
 Kursen syftar till en orientering inom områden design och användbarhet, specifikt för tillämpningsområdet webb. Kursen har tekniken som utgångspunkt, där olika tekniker introduceras och används för att underlätta webbdesign och användbarhet för webbplatsen med syftet att skapa en korrekt och användarvänlig webbplats.
+
+![En fin bild](cimage/imgd.php?src=dbwebbisar.jpg&w=300)

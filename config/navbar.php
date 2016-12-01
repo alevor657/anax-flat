@@ -45,6 +45,20 @@ return [
                 "url"   => $this->di->get("url")->create("typography"),
                 "title" => t("Typography")
             ],
+
+            "analysis" => [
+                "text"  => t("Analysis"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("Color analysis"),
+                "mark-if-parent" => true,
+            ],
+
+            "theme" => [
+                "text"  => t("Theme"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("Theme"),
+                "mark-if-parent" => true,
+            ],
         ],
     ],
 
