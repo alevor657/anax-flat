@@ -103,3 +103,5 @@ Mmheadline används i rubriker, mmtextregular som brödtext. Båda fonter är sa
 ###Övrigt###
 
 Media markt har tagit lite annorlunda vägen än de på Burger king gjorde med tanke på sina röda accentfärger. Media markt använder starkare, mer saturerade eller intensiva färger. Men båda vägar fungerar ju på grund av att röd är ju bra färg för att få oss att köpa grejer. Den stimulerar pulsen och får kunden att äntligen köpa det kunden ville.
+
+Jag har jobbat ensam så inga gruppmedlemmar.
