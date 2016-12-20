@@ -69,7 +69,58 @@ return [
             ]
         ],
 
-        // "separator2" => "------------------------------------------------",
+        "separator2" => "------------------------------------------------",
+
+        "deep" => [
+            "title"      => "Ett djup tema",
+            "class"      => "deep",
+            "stylesheets" => [
+                "css/deep.min.css"
+            ]
+        ],
+
+        "colorp" => [
+            "title"      => "Ett färganimerad tema",
+            "class"      => "colorp",
+            "stylesheets" => [
+                "css/colorp.min.css"
+            ]
+        ],
+
+        "texture" => [
+            "title"      => "Texture",
+            "class"      => "line",
+            "stylesheets" => [
+                "css/line.min.css"
+            ]
+        ],
+
+        "separator3" => "------------------------------------------------",
+
+        "Dark structure" => [
+            "title"      => "Dark structure",
+            "class"      => "Dark structure",
+            "stylesheets" => [
+                "css/black-structure.min.css"
+            ]
+        ],
+
+        "wide" => [
+            "title"      => "widescreen",
+            "class"      => "widescreen",
+            "stylesheets" => [
+                "css/widescreen.min.css"
+            ]
+        ],
+
+        "light-gradient" => [
+            "title"      => "light-gradient tema",
+            "class"      => "light-gradient",
+            "stylesheets" => [
+                "css/light-gradient.min.css"
+            ]
+        ],
+
         //
         // "fun"       => [
         //     "title"      => "All fun, test and play, make it stand out!",

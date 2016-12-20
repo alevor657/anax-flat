@@ -73,6 +73,20 @@ return [
                 "title" => t("blogg"),
                 "mark-if-parent" => true,
             ],
+
+            "design" => [
+                "text"  => t("Design"),
+                "url"   => $this->di->get("url")->create("design-principle"),
+                "title" => t("Design"),
+                "mark-if-parent" => true,
+            ],
+
+            "design-element" => [
+                "text"  => t("Design element"),
+                "url"   => $this->di->get("url")->create("design-element"),
+                "title" => t("Design element"),
+                "mark-if-parent" => true,
+            ],
         ],
     ],
 
@@ -130,9 +144,23 @@ return [
             ],
 
             "blog" => [
-                "text"  => t("blogg"),
+                "text"  => t("Blogg"),
                 "url"   => $this->di->get("url")->create("blogg"),
-                "title" => t("blogg"),
+                "title" => t("Blogg"),
+                "mark-if-parent" => true,
+            ],
+
+            "design" => [
+                "text"  => t("Design"),
+                "url"   => $this->di->get("url")->create("design-principle"),
+                "title" => t("Design"),
+                "mark-if-parent" => true,
+            ],
+
+            "design-element" => [
+                "text"  => t("Design element"),
+                "url"   => $this->di->get("url")->create("design-element"),
+                "title" => t("Design element"),
                 "mark-if-parent" => true,
             ],
         ],
